@@ -1,1 +1,2 @@
 this file is created in remote feature-2 branch
+this line added also in remote feature-2 branch
